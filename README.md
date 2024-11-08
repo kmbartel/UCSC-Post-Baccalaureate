@@ -13,3 +13,5 @@ Provided you have a working installation of Geant4 (see https://geant4.web.cern.
    h. generator.hh: Contains header files for generator.cc.
    i. physics.cc: The initialy used program that defined the physics lists to be used, now super-ceded by the alternative definition in simDarkQuest.cc.
    j. physics.hh: Contains header files for physics.cc.
+
+2. "Particle Decays 1-to-2.ipynb
